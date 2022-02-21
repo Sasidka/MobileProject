@@ -4,14 +4,17 @@
              x:Class="ThirdMobProject.UserPage">
     <ContentPage.Content>
         <StackLayout>
-            <Label Text="Страницаwef пользователя"
-                VerticalOptions="StartAndExpand"
-                HorizontalOptions="CenterAndExpand"/>
-
             <StackLayout HorizontalOptions="Center"
                          VerticalOptions="CenterAndExpand"
                          HeightRequest="500"
                          WidthRequest="400">
+                
+            <Label Text="Авторизация"
+                   HorizontalTextAlignment="Center"
+                   FontSize="Large"
+                   TextColor="Black"
+                   FontAttributes="Bold"/>
+
                 
                 <Entry IsPassword="False" 
                        Placeholder="Логин"
@@ -20,7 +23,7 @@
                        Placeholder="Пароль"
                        x:Name="PassEntry"/>
                 
-                <Picker>
+                <Picker x:Name="GenderPicker">
                 <Picker.Items>
                     <x:String>
                         Мужской

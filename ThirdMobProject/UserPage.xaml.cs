@@ -27,10 +27,10 @@ namespace ThirdMobProject
             
             var login = "Said445";
             var password = "Fur";
-            if ( LogEntry.Text == login && PassEntry.Text == password)
+            if ( LogEntry.Text == login && PassEntry.Text == password && GenderPicker.SelectedItem.ToString() == "Мужской")
             {
                 //навигация к странице ProfilePage
-                Navigation.PushAsync(new ProfilePage());
+                Navigation.PushAsync(new ProfilePage(login, password, GenderPicker.SelectedItem.ToString()));
             }
             else
             {

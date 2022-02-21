@@ -4,9 +4,26 @@
              x:Class="ThirdMobProject.ProfilePage">
     <ContentPage.Content>
         <StackLayout>
-            <Label Text="Welcome to Xamarin.Forms!"
-                VerticalOptions="CenterAndExpand" 
-                HorizontalOptions="CenterAndExpand" />
+            <StackLayout HorizontalOptions="StartAndExpand"
+                         VerticalOptions="StartAndExpand"
+                         WidthRequest="150"
+                         HeightRequest="-800">
+                <Button x:Name="BackBtn"
+                        Text="Назад"
+                        Clicked="BackBtn_Clicked"/>
+            </StackLayout>
+            <StackLayout HorizontalOptions="CenterAndExpand"
+                         VerticalOptions="CenterAndExpand" Margin="0">
+            <Label x:Name="LoginLbl"
+                   Text="ehf"/>
+            <Label x:Name="passwordLbl"
+                   Text="ehf"/>
+            <Label x:Name="genderLbl"
+                   Text="ehf"/>
+            </StackLayout>
         </StackLayout>
+        
     </ContentPage.Content>
 </ContentPage>
+    
+    
