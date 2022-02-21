@@ -1,0 +1,17 @@
+C:\Users\ferww\source\repos\ThirdMobProject\ThirdMobProject\bin\Debug\netstandard2.0\ThirdMobProject.deps.json
+C:\Users\ferww\source\repos\ThirdMobProject\ThirdMobProject\bin\Debug\netstandard2.0\ThirdMobProject.dll
+C:\Users\ferww\source\repos\ThirdMobProject\ThirdMobProject\bin\Debug\netstandard2.0\ref\ThirdMobProject.dll
+C:\Users\ferww\source\repos\ThirdMobProject\ThirdMobProject\bin\Debug\netstandard2.0\ThirdMobProject.pdb
+C:\Users\ferww\source\repos\ThirdMobProject\ThirdMobProject\obj\Debug\netstandard2.0\ThirdMobProject.csproj.AssemblyReference.cache
+C:\Users\ferww\source\repos\ThirdMobProject\ThirdMobProject\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\ferww\source\repos\ThirdMobProject\ThirdMobProject\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\ferww\source\repos\ThirdMobProject\ThirdMobProject\obj\Debug\netstandard2.0\WelcomePage.xaml.g.cs
+C:\Users\ferww\source\repos\ThirdMobProject\ThirdMobProject\obj\Debug\netstandard2.0\ThirdMobProject.AssemblyInfoInputs.cache
+C:\Users\ferww\source\repos\ThirdMobProject\ThirdMobProject\obj\Debug\netstandard2.0\ThirdMobProject.AssemblyInfo.cs
+C:\Users\ferww\source\repos\ThirdMobProject\ThirdMobProject\obj\Debug\netstandard2.0\ThirdMobProject.csproj.CoreCompileInputs.cache
+C:\Users\ferww\source\repos\ThirdMobProject\ThirdMobProject\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\ferww\source\repos\ThirdMobProject\ThirdMobProject\obj\Debug\netstandard2.0\ThirdMobProject.dll
+C:\Users\ferww\source\repos\ThirdMobProject\ThirdMobProject\obj\Debug\netstandard2.0\ref\ThirdMobProject.dll
+C:\Users\ferww\source\repos\ThirdMobProject\ThirdMobProject\obj\Debug\netstandard2.0\ThirdMobProject.pdb
+C:\Users\ferww\source\repos\ThirdMobProject\ThirdMobProject\obj\Debug\netstandard2.0\UserPage.xaml.g.cs
+C:\Users\ferww\source\repos\ThirdMobProject\ThirdMobProject\obj\Debug\netstandard2.0\ProfilePage.xaml.g.cs

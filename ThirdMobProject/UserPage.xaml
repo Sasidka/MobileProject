@@ -1,0 +1,45 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="ThirdMobProject.UserPage">
+    <ContentPage.Content>
+        <StackLayout>
+            <Label Text="Страницаwef пользователя"
+                VerticalOptions="StartAndExpand"
+                HorizontalOptions="CenterAndExpand"/>
+
+            <StackLayout HorizontalOptions="Center"
+                         VerticalOptions="CenterAndExpand"
+                         HeightRequest="500"
+                         WidthRequest="400">
+                
+                <Entry IsPassword="False" 
+                       Placeholder="Логин"
+                       x:Name="LogEntry"/>
+                <Entry IsPassword="true" 
+                       Placeholder="Пароль"
+                       x:Name="PassEntry"/>
+                
+                <Picker>
+                <Picker.Items>
+                    <x:String>
+                        Мужской
+                    </x:String>
+                    <x:String>
+                        Женский
+                    </x:String>
+                </Picker.Items>
+            </Picker>
+                <Button x:Name="SignInBtn" 
+                        Text="Войти"
+                        BackgroundColor="DarkGreen" 
+                        HorizontalOptions="CenterAndExpand"
+                        VerticalOptions="Fill"
+                        Clicked="SignInBtn_Clicked" />
+            </StackLayout>
+            
+            
+        </StackLayout>
+        
+    </ContentPage.Content>
+</ContentPage>
